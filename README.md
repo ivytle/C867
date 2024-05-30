@@ -33,6 +33,12 @@ You are hired as a contractor to help a university migrate an existing student s
 - `main.cpp`: Main program file demonstrating the use of the `Roster` class.
 - `README.md`: Project documentation.
 
+### Compiled Output
+
+Below is the output of the program when compiled and run:
+
+![Compiled Output](Compiled.png)
+
 ---
 
 ### Requirements
